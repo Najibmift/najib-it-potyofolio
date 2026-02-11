@@ -9,9 +9,9 @@ Saya Muhammad Najib Miftahul Huda, lulusan S1 Teknologi Informasi dari Telkom Un
 ## Featured Projects
 - Penyewaan Lapangan Olahraga → https://github.com/Najibmift/PenyewaanLapanganOlahragaJava
 - Warung Cak Andik App → https://github.com/Najibmift/WarungCakAndik-App
+- Smart Dustbin IoT → https://github.com/Najibmift/SmartDustbin-ESP32
 - Container Damage Detection → link repo
 - Smart Traffic System → link repo
-- Smart Dustbin IoT → link repo
 
 ## 🛠 Tools & Technologies
 
