@@ -11,7 +11,7 @@ Saya Muhammad Najib Miftahul Huda, lulusan S1 Teknologi Informasi dari Telkom Un
 - Warung Cak Andik App → https://github.com/Najibmift/WarungCakAndik-App
 - Smart Dustbin IoT → https://github.com/Najibmift/SmartDustbin-ESP32
 - Smart Traffic System → https://github.com/Najibmift/SmartTraffic
-- Container Damage Detection → link repo
+- Container Damage Detection → https://github.com/Najibmift/CDD
   
 
 ## 🛠 Tools & Technologies
