@@ -6,6 +6,9 @@ Saya Muhammad Najib Miftahul Huda, lulusan S1 Teknologi Informasi dari Telkom Un
 ## Core Skills
 (Networking, IT Support, System Administrator, IoT)
 
+## Certificates and Training
+https://drive.google.com/drive/folders/1gOk9zYqefGNCXnx4K7QSRdj6ZoXiglFH?usp=drive_link
+
 ## Featured Projects
 - Penyewaan Lapangan Olahraga → https://github.com/Najibmift/PenyewaanLapanganOlahragaJava
 - Warung Cak Andik App → https://github.com/Najibmift/WarungCakAndik-App
